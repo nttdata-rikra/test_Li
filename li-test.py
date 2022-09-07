@@ -22,3 +22,19 @@ s
 Thread.sleep(forTimeInterval: 5)
 
 と書いておいてほしい
+
+  getPatientListの定義に以下を追記
+-> (result:Bool, messageId:String, data:[[String:Any]])
+
+
+
+getPatient以外の関数の定義に以下を追記
+-> (result:Bool, messageId:String)
+
+追記するところは今のgetPatientに書いてある ->と同じ。
+===
+
+getPatientListのreturnのところを修正してほしい。
+こいつについては、サーバから受けとったデータを使うから、戻り値の方が違う。
+return json　　　⇒　　return (true, "", json)
+それ以外のreturnについて、return (false, "....")　⇒　return (false, "....", nil)
