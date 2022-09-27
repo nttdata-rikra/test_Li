@@ -1,2 +1,2 @@
-TODO: エラーのコード値がAFError.sessionTaskFailedと一致するかを判定することがタイムアウトエラーの判定条件として妥当か否かは、今後の試験工程で検証する。
-TODO: 13という生のリテラルを用いている点については、近いうちに、isSessionTaskError　に置き換えられるかを検証する。
+https://www.microsoft.com/ja-JP/download/details.aspx?id=48159
+  https://learn.microsoft.com/ja-JP/cpp/windows/latest-supported-vc-redist?view=msvc-170
