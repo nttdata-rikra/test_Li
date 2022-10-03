@@ -1,1 +1,0 @@
-https://urldefense.com/v3/__https://apps.apple.com/jp/app/one-time-password/id1028958661__;!!GCTRfqYYOYGmgK_z!6FP0aChlOIN0Do2WmcKjNfR-BfihGYSS2l7OGAU_dLfmIVZVHkmjqD3Gt9NUtFoZd3cxlwTrr0-vpZyITrsx6nt0$  
